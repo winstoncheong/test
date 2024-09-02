@@ -34,5 +34,5 @@ jobs:
           CLEAN: true
           SINGLE_COMMIT: true
           FOLDER: out
-          GIT_CONFIG_NAME: lukasbachbot
-          GIT_CONFIG_EMAIL: bot@noreply.lukasbach.com
+          GIT_CONFIG_NAME: winstc
+          GIT_CONFIG_EMAIL: none@none.com
